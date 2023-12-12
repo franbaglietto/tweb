@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Rubik:wght@900&display=swap');
+body{
+   
+        background-image: url('img/wavey-fingerprint.png'); /* Ruta de tu imagen de fondo */
+        background-repeat: repeat; /* Repetir horizontal y verticalmente */
+        /* Otras opciones: repeat-x (solo horizontal), repeat-y (solo vertical), no-repeat (sin repetición) */
+        background-size: auto; /* Ajusta el tamaño automáticamente para repetir la imagen */
+      
+color: rgb(240, 255, 244);
+}
+header{
+    text-align: center;
+    padding: 30px;
+}
+.barra{
+    font-family: 'Rubik', sans-serif;
+    background-color:#000000;
+    border: 2px solid green;
+    padding: 10px;
+}
+.barra:hover{
+    background-color:rgb(195, 0, 255);
+}
+.desafio{
+background-color: rgb(25, 27, 29);
+padding: 30px;
+border: 2px solid green;
+font-family: 'Rubik', sans-serif;
+margin: 20px;
+
+}
+
+article{
+    font-size:larger;
+    font-family: 'Quicksand', sans-serif;
+}
+.Proceso{
+    background-color: rgb(25, 27, 29);
+padding: 30px;
+border: 2px solid green;
+font-family: 'Rubik', sans-serif;
+margin: 20px;
+}
+.imagenes{
+    padding: 30px;
+}
+strong{
+    color: green;
+}
+.jugar{
+    font-family: 'Rubik', sans-serif;
+    background-color:#000000;
+    border: 2px solid green;
+    padding: 10px;
+}
+h1{
+    color: rgb(16, 190, 16);
+}
